@@ -1,0 +1,10 @@
+.lorem {
+	color: #ddd;
+	font-style: italic;
+}
+
+.md-nav--secondary .md-nav__link--active {
+	font-weight: 900;
+	color: #F57C00 !important;
+}
+
